@@ -21,3 +21,9 @@ nav{
 nav:hover{
     color: green;
 }
+@media (max-width: 460px){
+    .video{
+        display: block;
+    }
+}
+
