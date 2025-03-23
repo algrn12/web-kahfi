@@ -1,29 +1,28 @@
-body{
-    background-color: #e0e1dd;
-    font-family: Verdana,Tahoma, sans-serif;
-    font-size: 20px;
-    padding: 10px;
+body {
+  background-color: #e0e1dd;
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 20px;
+  padding: 10px;
 }
-.judul{
- font-size: 35px;
- text-align: center;
- margin: 10px;
- font-family: 'Times New Roman', Times, serif;
+.judul {
+  font-size: 35px;
+  text-align: center;
+  margin: 10px;
+  font-family: "Times New Roman", Times, serif;
 }
-.video{
-    display: flex;
-    text-align: center;
-    margin: 10px;
+.video {
+  display: flex;
+  text-align: center;
+  margin: 10px;
 }
-nav{
-    background-color: #415a77;
+nav {
+  background-color: #415a77;
 }
-nav:hover{
-    color: green;
+nav:hover {
+  color: green;
 }
-@media (max-width: 460px){
-    .video{
-        display: block;
-    }
+@media (max-width: 460px) {
+  .video {
+    display: block;
+  }
 }
-
