@@ -21,7 +21,7 @@ nav {
 nav:hover {
   color: green;
 }
-@media (max-width: 768px) {
+@media (max-width: 780px) {
   .video {
     display: block;
   }
