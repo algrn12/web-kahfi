@@ -26,8 +26,8 @@ nav:hover {
     display: block;
   }
 }
-@media (max-width: 480px){
+@media (max-width: 570px){
     .video{
-        dis
+        display: block;
     }
 }
